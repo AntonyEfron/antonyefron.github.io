@@ -1,0 +1,16 @@
+.introduction{
+  background-image:url(img/bgimg.jpeg);
+  background-position:center;
+  background-size:cover;
+  position:relative;
+  width:100%;
+  height:100vh;
+}
+.indroduction-text{
+  width:40%;
+  margin:3rem;
+}
+.form-section{
+  padding:100px;
+  padding-bottom:20px;
+}
