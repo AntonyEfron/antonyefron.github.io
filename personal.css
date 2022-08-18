@@ -14,3 +14,17 @@
   padding:100px;
   padding-bottom:20px;
 }
+
+.scrollmenu {
+  background-color:none;
+  overflow: auto;
+  /* white-space: nowrap; */
+}
+
+/* .scrollmenu card1 {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+} */
