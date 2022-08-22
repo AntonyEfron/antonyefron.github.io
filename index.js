@@ -1,7 +1,7 @@
 function homiename()
    {
     var homie = document.getElementById('homiename').value;
-    document.getElementById('name').innerHTML ="Hello "+homie+" nice to meet YOU..";
+    document.getElementById('name').innerHTML ="HELLO "+homie+" nice to MEET YOU..";
    }
   
 
@@ -25,3 +25,4 @@ function homiename()
    function scale (number, inMin, inMax, outMin, outMax) {
        return (number - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;
    }
+
